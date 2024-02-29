@@ -18,7 +18,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         // Simpan data baru ke file JSON
         file_put_contents('users.json', json_encode($users));
 
-        echo 'Registration successful. <a href="index.php">Login</a>';
+        echo 'Registration successful. <a href="index.html">Login</a>';
     }
 }
 ?>
