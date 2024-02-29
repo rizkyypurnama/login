@@ -11,7 +11,7 @@
             <div class="row"> 
                 <div class="col-12 col-sm-8 col-md-6 m-auto">
                     <div class="card border-0 shadow" style="background-color: rgb(255, 255, 255, 0.5);">
-                    <br>   
+                    <br>
 					<div class="card-body">
 							
 							<center><h5>LOGIN</h5></center>
